@@ -1,4 +1,10 @@
-.card{
-    padding: 10px;
+
+.card-content{
+    display: flex;
+    align-items: center;
+}
+.card-content .card{
+    height: 150px;
     width: 150px;
+    margin: 10px;
 }
